@@ -1,4 +1,6 @@
-import FuzzyText from "@/components/Fuzzytext";
+
+
+import FuzzyText from "@/components/FuzzyText";
 
 
 export default function Notfound() {
